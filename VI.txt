@@ -1,0 +1,467 @@
+# No stations defined
+Chưa có trạm nào
+
+# MY STATIONS
+Trạm của tôi
+
+# FOLLOWING
+Trạm đang theo dõi
+
+# You have to be logged in to see station data for this earthquake
+Bạn phải đăng nhập để xem dữ liệu trạm cho trận động đất này
+
+# Please connect your station to your profile to see station data for this earthquake
+Vui lòng kết nối trạm của bạn với hồ sơ của bạn để xem dữ liệu trạm cho trận động đất này
+
+# Login
+Đăng nhập
+
+# Or follow any other station from the global community
+Hoặc theo dõi bất kỳ trạm nào khác từ cộng đồng toàn cầu
+
+# Explore Stations
+Khám phá các trạm
+
+# Connection Timeout
+Hết thời gian kết nối
+
+# The data might not be complete
+Dữ liệu có thể không đầy đủ
+
+# Distance
+Khoảng cách
+
+# Magnitude %1+
+Độ mạnh %1+
+
+# %1 away
+Cách %1
+
+# Ground Motion below %1 m/s
+Chuyển động mặt đất dưới %1 m/s
+
+# Today
+Hôm nay
+
+# Yesterday
+Hôm qua
+
+# %1 Earthquakes total
+Tổng số %1 trận động đất
+
+# %1 in current filter
+%1 trong bộ lọc hiện tại
+
+# My Shake
+Shake của tôi
+
+# Unfollow
+Bỏ theo dõi
+
+# 24-hr Plot
+Đồ thị 24-hr
+
+# Share
+Chia sẻ
+
+# You are currently not following any stations.
+Bạn hiện không theo dõi bất kỳ trạm nào
+
+# Follow stations on the station map
+Theo dõi các trạm trên bản đồ
+
+# Settings
+Cài đặt
+
+# Profile
+Hồ sơ
+
+# Units
+Đơn vị
+
+# Appearance
+Hiển thị
+
+# About Raspberry Shake
+Về Raspberry Shake
+
+# Clear cache
+Xóa bộ nhớ cache
+
+# Logout
+Thoát
+
+# %1 Stations online
+%1 trạm trực tuyến
+
+# %1 Stations found
+%1 trạm được tìm thấy
+
+# Enter station ID
+Nhập mã trạm
+
+# You are now following station %1
+Bạn hiện đang theo dõi trạm %1
+
+# You are now no longer following station %1
+Bạn hiện không còn theo dõi trạm %1 nữa
+
+# Password Reset
+Đặt lại mật khẩu
+
+# Request sent!
+Yêu cầu đã được gửi!
+
+# Your password request has been sent. If the requested e-mail has been registered it will receive an e-mail swiftly.
+Yêu cầu mật khẩu đã được gửi. Nếu e-mail yêu cầu đã được đăng ký, nó sẽ nhận được e-mail nhanh chóng.
+
+# Request failed!
+Yêu cầu không thành công
+
+# An error occurred while sending the request.
+Đã xảy ra lỗi khi gửi yêu cầu.
+
+# Use the same email address to register as you used to configure your Raspberry Shake. If you do not own a Raspberry Shake, any email address will work.
+Sử dụng cùng một địa chỉ email để đăng ký như bạn đã dùng để cấu hình Raspberry Shake của mình. Nếu bạn không sở hữu Raspberry Shake, bất kỳ email nào cũng được.
+
+# E-mail
+E-mail
+
+# Enter your E-mail
+Nhập e-mail
+
+# Reset Password
+Đặt lại mật khẩu
+
+# Successfully authenticated!
+Xác thực thành công!
+
+# Your data has been retrieved.
+Dữ liệu của bạn đã được truy xuất.
+
+# Authentication failed!
+Xác thực thất bại!
+
+# The username/password combination was not valid, please try again.
+Tên người dùng hoặc mật khẩu không đúng. Vui lòng thử lại.
+
+# Please use the same login that you use for ShakeNet
+Vui lòng sử dụng cùng thông tin đăng nhập mà bạn sử dụng cho ShakeNet
+
+# Username/E-mail
+Tên người dùng/E-mail
+
+# Password
+Mật khẩu
+
+# Enter your password
+Nhập mật khẩu
+
+# Forgot your password?
+Quên mật khẩu
+
+# Register
+Đăng ký
+
+# Registration
+Đăng ký
+
+# Successfully registered!
+Đăng ký thành công!
+
+# Your account has been registered, an e-mail has been sent to registered address. Once confirmed you will be able to login with this account.
+Tài khoản của bạn đã được đăng ký. Một email đã được gửi đến email đăng ký. Sau khi xác nhận, bạn sẽ có thể đăng nhập bằng tài khoản này.
+
+# There were validation errors, please try again.
+Đã xảy ra lỗi xác thực, vui lòng thử lại.
+
+# Username
+Tên người dùng
+
+# your Username
+Tên người dùng của bạn
+
+# First name
+Tên
+
+# Last name
+Họ
+
+# Confirm password
+Xác nhận mật khẩu
+
+# %1 Earthquakes
+%1 trận động đất
+
+# List
+Danh sách
+
+# Map
+Bản đồ
+
+# Apply
+Áp dụng
+
+# Region
+Khu vực
+
+# Select the region you are interested in
+Chọn khu vực bạn quan tâm
+
+# World
+Thế giới
+
+# This version is no longer supported. Please check the Play Store for the official Raspberry Shake App.
+Phiên bản này không còn được hỗ trợ. Vui lòng kiểm tra trên chợ ứng dụng về ứng dụng Raspberry Shake chính thức.
+
+# Ok
+Ok
+
+# %1 to %2
+// Event filter in Magnitude(5.2 to 9.5) or Depth(194 km to 0 km)
+%1 đến %2
+
+# Sort & Filter
+Sắp xếp & lọc
+
+# Sort
+Sắp xếp
+
+# Filter
+Lọc
+
+# Sort Earthquakes By
+Sắp xếp động đất theo
+
+# Date
+Ngày tháng
+
+# Magnitude
+Độ mạnh
+
+# Relevance
+Liên quan
+
+# Filter Earthquakes By
+Lọc động đất theo
+
+# min
+nhỏ nhất
+
+# max
+lớn nhất
+
+# Depth
+Độ sâu
+
+# Time
+Thời gian
+
+# %1 day(s) ago
+%1 ngày trước
+
+# between %1 and %2 days ago
+từ %1 đến %2 ngày trước
+
+# days
+ngày
+
+# between %1 and %2 away
+// Event filter in Distance(between 0 and 20000 km away)
+cách từ %1 đến %2
+
+# Distance to your location
+Khoảng cách đến vị trí của bạn
+
+# Whole World
+Toàn thế giới
+
+# %1 Earthquakes in this filter
+%1 động đất trong bộ lọc này
+
+# Reset filters
+Đặt lại bộ lọc
+
+# Most recent earthquakes first
+Động đất gần đây nhất trước
+
+# Closest earthquakes first, relative to device's location
+Động đất gần bạn nhất trước, theo vị trí thiết bị
+
+# Largest earthquake first
+Động đất lớn nhất trước
+
+# Strongest close-by earthquake first, relative to device's location
+Động đất gần nhất mạnh nhất trước, theo vị trí thiết bị
+
+# #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+#Earthquake được ghi lại trên mạng địa chấn #RaspberryShake #CitizenScience. Xem những gì đang rung chuyển gần bạn với ứng dụng di động @raspishake #ShakeNet
+
+# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+Sự kiện #Earthquake được ghi lại trên mạng địa chấn #RaspberryShake #CitizenScience. Xem những gì đang rung chuyển gần bạn với ứng dụng di động @raspishake #ShakeNet
+
+# 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+Dữ liệu 24 giờ được ghi lại trên mạng địa chấn #RaspberryShake #CitizenScience. Xem những gì đang rung chuyển gần bạn với ứng dụng di động @raspishake #ShakeNet
+
+# About
+Giới thiệu
+
+# Address
+Địa chỉ
+
+# Helpful Links
+Liên kết hữu ích
+
+# Company Website
+Trang web công ty
+
+# Online Shop
+Cửa hàng trực tuyến
+
+# Tech Forum
+Diễn đàn công nghệ
+
+# Contact
+Liên hệ
+
+# Social Media
+Mạng xã hội
+
+# Application
+Ứng dụng
+
+# Version
+Phiên bản
+
+# THEME
+Chủ đề
+
+# Light Theme
+Chủ đề sáng
+
+# Dark Theme
+Chủ đề tối
+
+# OFFLINE Stations
+Trạm ngoại tuyến
+
+# HIDE
+Ẩn
+
+# Languages
+Ngôn ngữ
+
+# English
+English
+
+# French
+French
+
+# Vietnamese
+Tiếng Việt
+
+# Media
+Truyền thông
+
+# City / State
+Thành phố / bang
+
+# Country
+Quốc gia
+
+# Your Website
+Trang web của bạn
+
+# Amateur Radio Call Sign
+Dấu hiệu cuộc gọi vô tuyến nghiệp dư
+
+# Distances
+Khoảng cách
+
+# Kilometers / Meters
+Kilomet / met
+
+# Miles / Feet
+Dặm / bước
+
+# Frequency
+Tần số
+
+# Frequency data showing distribution of energy across resolvable frequencies
+Dữ liệu tần số hiển thị sự phân bố năng lượng trên các tần số có thể phân giải
+
+# Frequency in Hz
+Tần số Hz
+
+# Spectrogram Fine Tuning
+Tinh chỉnh quang phổ
+
+# Log-Scale
+Tỷ lệ Log
+
+# Station offline
+Trạm ngoại tuyến
+
+# live
+trực tiếp
+
+# No Station found
+Không tìm thấy trạm nào
+
+# No Channel found
+Không tìm thấy kênh nào
+
+# unknown station
+trạm không xác định
+
+# unknown Region
+vùng không xác định
+
+# Waveform
+Dạng sóng
+
+# Amplitude
+Biên độ
+
+# Waveform data showing P- and S-wave arrival times
+Dữ liệu dạng sóng hiển thị thời gian đến của sóng P và S
+
+# Counts
+Số lượng
+
+# Offline
+Ngoại tuyến
+
+# Server unavailable, please try again later
+Máy chủ không khả dụng, vui lòng thử lại sau
+
+# No data
+Không có dữ liệu
+
+# Trace Filter
+Bộ lọc
+
+# Global 0.1 - 0.8 Hz
+Toàn cầu 0.1 - 0.8 Hz
+
+# Regional 0.7 - 2.0 Hz
+Khu vực 0.7 - 2.0 Hz
+
+# Local 3.0 - 8.0 Hz
+Địa phương 3.0 - 8.0 Hz
+
+# Hyper Local 3.0 - 20.0 Hz
+Siêu địa phương 3.0 - 20.0 Hz
+
+# Elevation
+Độ cao
+
+# unfiltered
+chưa lọc
+
+# Events
+Sự kiện
+
+# Stations
+Trạm
+
