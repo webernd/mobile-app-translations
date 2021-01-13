@@ -2,13 +2,13 @@
 
 # MY STATIONS
 
-# FOLLOWING
+# FOLLOWING	# context: means the stations that a person has FOLLOWED from the station screen / map
 
 # You have to be logged in to see station data for this earthquake
 
 # Please connect your station to your profile to see station data for this earthquake
 
-# Login
+# Login	# context: as a verb
 
 # Or follow any other station from the global community
 
@@ -22,7 +22,7 @@
 
 # Magnitude %1+
 
-# %1 away
+# %1 away	# context: as a distance _away_ from phone's current location
 
 # Ground Motion below %1 m/s
 
@@ -44,7 +44,7 @@
 
 # You are currently not following any stations.
 
-# Follow stations on the station map
+# Follow stations on the station map		# context: means to select a station to follow for display on 'My Shake' Main page
 
 # Settings
 
@@ -86,7 +86,7 @@
 
 # Enter your E-mail
 
-# Reset Password
+# Reset Password	# context: as a verb
 
 # Successfully authenticated!
 
@@ -204,7 +204,7 @@
 
 # About
 
-# Address
+# Address	# context: this represents a physical address
 
 # Helpful Links
 
@@ -218,7 +218,7 @@
 
 # Social Media
 
-# Application
+# APP Information
 
 # Version
 
@@ -240,7 +240,7 @@
 
 # Vietnamese
 
-# Media
+# Media	# context: as in social media websites
 
 # City / State
 
@@ -304,7 +304,7 @@
 
 # Elevation
 
-# unfiltered
+# unfiltered	# context: refers to a filter being applied to a waveform on display
 
 # Events
 
