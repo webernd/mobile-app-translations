@@ -1,312 +1,467 @@
 # No stations defined
+Geen stations gedefinieerd
 
 # MY STATIONS
+Mijn stations
 
 # FOLLOWING
+Gevolgden
 
 # You have to be logged in to see station data for this earthquake
+U moet ingelogd zijn om de station data te zien voor deze aardbeving
 
 # Please connect your station to your profile to see station data for this earthquake
+Verbind a.u.b. uw station met uw profiel om de station data te zien voor deze aardbeving
 
 # Login
+Login
 
 # Or follow any other station from the global community
+Of volg een ander station in de globale gemeenschap
 
 # Explore Stations
+Ontdek stations
 
 # Connection Timeout
+Connectie timeout
 
 # The data might not be complete
+De data is mogelijk niet compleet
 
 # Distance
+Afstand
 
 # Magnitude %1+
+Magnitude %1+
 
 # %1 away
+%1 ver weg
 
 # Ground Motion below %1 m/s
+Grond beweging onder  %1 m/s
 
 # Today
+Vandaag
 
 # Yesterday
+Gisteren
 
 # %1 Earthquakes total
+%1 Aardbevingen in totaal
 
 # %1 in current filter
+%1 met de huidige filter
 
 # My Shake
+Mijn Shake
 
 # Unfollow
+Niet meer volgen	
 
 # 24-hr Plot
+24-hr plot
 
 # Share
+Delen
 
 # You are currently not following any stations.
+U volgt momenteel geen stations
 
 # Follow stations on the station map
+Volg stations op de station map
 
 # Settings
+Instellingen
 
 # Profile
+Profiel
 
 # Units
+Eenheden
 
 # Appearance
+Uiterlijk	
 
 # About Raspberry Shake
+Over Raspberry Shake
 
 # Clear cache
+Wis cache
 
 # Logout
+Log uit
 
 # %1 Stations online
+%1 Stations online
 
 # %1 Stations found
+%1 Stations gevonden
 
 # Enter station ID
+Geef station ID in
 
 # You are now following station %1
+U volgt nu station %1
 
 # You are now no longer following station %1
+U volgt station %1 niet meer
 
 # Password Reset
+Paswoord reset
 
 # Request sent!
+Verzoek verzonden
 
 # Your password request has been sent. If the requested e-mail has been registered it will receive an e-mail swiftly.
+Uw paswoord verzoek is verzonden. Als de ingegeven e-mail geregistreerd is zal u snel een e-mail ontvangen.
 
 # Request failed!
+Verzoek is gefaald
 
 # An error occurred while sending the request.
+Er was een fout met het verzenden van uw verzoek.
 
 # Use the same email address to register as you used to configure your Raspberry Shake. If you do not own a Raspberry Shake, any email address will work.
+Gebruik hetzelfde e-mail adres dat u gebruikt heeft bij uw Raspberry Shake configuratie om te registreren. Als u geen Raspberry Shake bezet kan u eender welk e-mail adres gebruiken.
 
 # E-mail
+E-mail
 
 # Enter your E-mail
+Vul uw e-mail in
 
 # Reset Password
+Reset paswoord
 
 # Successfully authenticated!
+Succesvol geauthenticeerd!
 
 # Your data has been retrieved.
+Uw data is geladen.
 
 # Authentication failed!
+Authenticatie is gefaald
 
 # The username/password combination was not valid, please try again.
+The gebruikersnaam/paswoord combinatie was niet geldig, probeeb a.u.b. opniew
 
 # Please use the same login that you use for ShakeNet
+Gebruik a.u.b. dezelfde login dat u gebruikt voor ShakeNet
 
 # Username/E-mail
+Gebruikersnaam/E-mail
 
 # Password
+Paswoord
 
 # Enter your password
+Vul uw paswoord in
 
 # Forgot your password?
+Uw paswoord vergeten?
 
 # Register
+Registreer
 
 # Registration
+Registratie
 
 # Successfully registered!
+Succesvol geregistreerd!
 
 # Your account has been registered, an e-mail has been sent to registered address. Once confirmed you will be able to login with this account.
+Uw account is geregistreerd en een e-mail is verzonden naar uw geregistreerd e-mail adres. Als u deze confirmeert, zal u kunnen inloggen met deze account.
 
 # There were validation errors, please try again.
+Er waren validatie fouten, probeer a.u.b. opnieuw.
 
 # Username
+Gebruikersnaam
 
 # your Username
+uw Gebruikersnaam
 
 # First name
+Voornaam
 
 # Last name
+Achternaam
 
 # Confirm password
+Confirmeer paswoord
 
 # %1 Earthquakes
+%1 Aardbevingen
 
 # List
+Lijst
 
 # Map
+Map
 
 # Apply
+Toepassen
 
 # Region
+Regio
 
 # Select the region you are interested in
+Selecteer de regio van interesse
 
 # World
+Wereld
 
 # This version is no longer supported. Please check the Play Store for the official Raspberry Shake App.
+Deze versie wordt niet langer ondersteund. Zoek a.u.b. in the Play Store voor de officiele Raspberry Shake app.
 
 # Ok
+Ok
 
 # %1 to %2
 // Event filter in Magnitude(5.2 to 9.5) or Depth(194 km to 0 km)
+van %1 tot %1
 
 # Sort & Filter
+Sorteer & Filter
 
 # Sort
+Sorteer
 
 # Filter
+Filter
 
 # Sort Earthquakes By
+Sorteer Aardbevingen volgens
 
 # Date
+Datum
 
 # Magnitude
+Magnitude
 
 # Relevance
+Relevantie
 
 # Filter Earthquakes By
+Filter Aardbevingen volgens
 
 # min
+min
 
 # max
+max
 
 # Depth
+Diepte
 
 # Time
+Tijd
 
 # %1 day(s) ago
+%1 dag(en) geleden
 
 # between %1 and %2 days ago
+tussen %1 en %2 dagen geleden
 
 # days
+dagen
 
 # between %1 and %2 away
 // Event filter in Distance(between 0 and 20000 km away)
+tussen %1 en %2 ver weg
 
 # Distance to your location
+Afstand tot uw locatie
 
 # Whole World
+Hele Wereld
 
 # %1 Earthquakes in this filter
+%1 Aardbevingen in deze filter
 
 # Reset filters
+Reset filters
 
 # Most recent earthquakes first
+Meest recente aardbevingen eerst
 
 # Closest earthquakes first, relative to device's location
+Dichtstbijzijnde aardbevingen eerst, relatief t.o.v. toestel locatie
 
 # Largest earthquake first
+Grootste aardbevingen eerst
 
 # Strongest close-by earthquake first, relative to device's location
+Sterkste dichtstbijzinde aardbevingen eerst, relatief t.o.v. toestal locatie
 
 # #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+#Aardbevingen vastgelegd op het #RaspberryShake #CitizenScience seismisch netwerk. Zie wat beeft dicht bij u met de @raspishake #ShakeNet mobiele app
 
 # #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+#Aardbeving evenement vastgelegd op het #RaspberryShake #CitizenScience seismisch netwerk. Zie wat beeft dicht bij u met de @raspishake #ShakeNet mobiele app
 
 # 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+24-hr Plot data vastgelegd op het #RaspberryShake #CitizenScience seismisch netwerk. Zie wat beeft dicht bij u met de @raspishake #ShakeNet mobiele app
 
 # About
+About
 
 # Address
+Adres
 
 # Helpful Links
+Helpzame links
 
 # Company Website
+Bedrijf Website
 
 # Online Shop
+Online Shop
 
 # Tech Forum
+Tech Forum
 
 # Contact
+Contact
 
 # Social Media
+Sociale Media
 
 # Application
+Applicatie
 
 # Version
+Versie
 
 # THEME
+Thema
 
 # Light Theme
+Licht Thema
 
 # Dark Theme
+Donker Thema
 
 # OFFLINE Stations
+OFFLINE Stations
 
 # HIDE
+Verbergen
 
 # Languages
+Talen
 
 # English
+Engels
 
 # French
+Frans
 
 # Vietnamese
+Vietnamese
 
 # Media
+Media
 
 # City / State
+Stad / Provincie
 
 # Country
+Land
 
 # Your Website
+Uw Website
 
 # Amateur Radio Call Sign
+Amateur Radio Kenteken
 
 # Distances
+Afstanden
 
 # Kilometers / Meters
+Kilometers / Meters
 
 # Miles / Feet
+Mijlen / Voet
 
 # Frequency
+Frequentie
 
 # Frequency data showing distribution of energy across resolvable frequencies
+Frequentie data die de distributie van energie toont over de meetbare frequenties
 
 # Frequency in Hz
+Frequentie in Hz
 
 # Spectrogram Fine Tuning
+Spectrogram Scherpstellen
 
 # Log-Scale
+Log-schaal
 
 # Station offline
+Station offline
 
 # live
+live
 
 # No Station found
+Geen station gevonden
 
 # No Channel found
+Geen kanaal gevonden
 
 # unknown station
+onbekend station
 
 # unknown Region
+onbekende regio
 
 # Waveform
+Golfvorm
 
 # Amplitude
+Amplitude
 
 # Waveform data showing P- and S-wave arrival times
+Golfvorm data die de P- en S-golf aankomst tijden toont
 
 # Counts
+Metingen
 
 # Offline
+Offline
 
 # Server unavailable, please try again later
+Server niet beschikbaar, probeer later a.u.b. opnieuw 
 
 # No data
+Geen data
 
 # Trace Filter
+Schets Filter
 
 # Global 0.1 - 0.8 Hz
+Globaal
 
 # Regional 0.7 - 2.0 Hz
+Regionaal
 
 # Local 3.0 - 8.0 Hz
+Lokaal
 
 # Hyper Local 3.0 - 20.0 Hz
+Hyper Lokaal
 
 # Elevation
+Elevatie
 
 # unfiltered
+ongefiltered
 
 # Events
+Evenementen
 
 # Stations
+Stations
 

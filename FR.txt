@@ -1,302 +1,300 @@
-# No stations defined
+# Aucune station définie
 
-# MY STATIONS
+# MES STATIONS
 
-# FOLLOWING
+# SUIVIS
 
-# You have to be logged in to see station data for this earthquake
+# Vous devez être connecté afin de voir les données des stations de ce séisme
 
-# Please connect your station to your profile to see station data for this earthquake
+# Veuillez lier votre station à votre profil afin de voir les données de ce séisme
 
-# Login
+# Connecter
 
-# Or follow any other station from the global community
+# Ou suivez une autre station de la communauté
 
-# Explore Stations
+# Voir les stations
 
-# Connection Timeout
+# Délai de connexion dépassé
 
-# The data might not be complete
+# Les données semblent incomplètes
 
 # Distance
 
 # Magnitude %1+
 
-# %1 away
+# %1 distant(s)
 
-# Ground Motion below %1 m/s
+# Mouvement de sol inférieur à %1 m/s
 
-# Today
+# Aujourd'hui
 
-# Yesterday
+# Hier
 
-# %1 Earthquakes total
+# Total de séismes %1
 
-# %1 in current filter
+# %1 actuellement filtrés
 
 # My Shake
 
-# Unfollow
+# S'abonner
 
-# 24-hr Plot
+# Graph sur 24h
 
-# Share
+# Partager
 
-# You are currently not following any stations.
+# Vous ne suivez actuellement aucune station.
 
-# Follow stations on the station map
+# S'abonner à des stations depuis la carte
 
-# Settings
+# Paramètres
 
-# Profile
+# Profil
 
-# Units
+# Unités
 
-# Appearance
+# Apparance
 
-# About Raspberry Shake
+# A propos de Raspberry Shake
 
-# Clear cache
+# Nettoyer le cache
 
-# Logout
+# Se déconnecter
 
-# %1 Stations online
+# %1 Stations en ligne
 
-# %1 Stations found
+# %1 Stations trouvées
 
-# Enter station ID
+# Saisir un identifiant de station
 
-# You are now following station %1
+# Vous êtes maintenant abonné à la station %1
 
-# You are now no longer following station %1
+# Vous n'êtes plus abonné à la station %1
 
-# Password Reset
+# Réinitialisation du mot de passe
 
-# Request sent!
+# Demande envoyée !
 
-# Your password request has been sent. If the requested e-mail has been registered it will receive an e-mail swiftly.
+# Votre demande de réinitialisation de mot de passe a été envoyée. Si votre e-mail existe, un e-mail vous sera rapidement envoyé.
 
-# Request failed!
+# Demande rejetée !
 
-# An error occurred while sending the request.
+# Une erreur est survenue lors de l'envoi de la demande.
 
-# Use the same email address to register as you used to configure your Raspberry Shake. If you do not own a Raspberry Shake, any email address will work.
+# Afin de vous enregistrer, veuillez renseigner la même adresse que vous avez utilisé pour configurer votre Raspberry Shake. Si vous ne possédez pas de Raspberry Shake, veuillez renseignez une adresse de votre choix.
 
 # E-mail
 
-# Enter your E-mail
+# Saisir votre e-mail
 
-# Reset Password
+# Réinitialiser votre mot de passe
 
-# Successfully authenticated!
+# Authentification réussie !
 
-# Your data has been retrieved.
+# Vos données ont été récupérées.
 
-# Authentication failed!
+# Authentification échouée !
 
-# The username/password combination was not valid, please try again.
+# L'identifiant/mot de passe est invalide, veuillez recommencer.
 
-# Please use the same login that you use for ShakeNet
+# Veuillez utiliser le même identifiant qu'utilisé pour le ShakeNet
 
-# Username/E-mail
+# Identifiant/E-mail
 
-# Password
+# Mot de passe
 
-# Enter your password
+# Saisir votre mot de passe
 
-# Forgot your password?
+# Mot de passe oublié ?
 
-# Register
+# S'inscrire
 
-# Registration
+# Inscription
 
-# Successfully registered!
+# Inscription réussie !
 
-# Your account has been registered, an e-mail has been sent to registered address. Once confirmed you will be able to login with this account.
+# Votre inscription est terminée, un e-pmail vous a été envoyé à l'adresse renseignée. Veuillez confirmer celui-ci afin de vous connecter.
 
-# There were validation errors, please try again.
+#  Une erreur est survenue lors de la tentative de traitement de votre demande, veuillez recommencer.
 
-# Username
+# Identifiant
 
-# your Username
+# votre identifiant
 
-# First name
+# Prénom
 
-# Last name
+# Nom
 
-# Confirm password
+# Confirmation du mot de passe
 
-# %1 Earthquakes
+# %1 Séismes
 
-# List
+# Liste
 
-# Map
+# Carte
 
-# Apply
+# Appliquer
 
 # Region
 
-# Select the region you are interested in
+# Sélectionner une région d'intérêt
 
-# World
+# Monde
 
-# This version is no longer supported. Please check the Play Store for the official Raspberry Shake App.
+# Cette version ne semble plus prise en charge. Veuillez aller sur Play Store afin d'obtenir l'application officielle Raspberry Shake.
 
 # Ok
 
-# %1 to %2
-// Event filter in Magnitude(5.2 to 9.5) or Depth(194 km to 0 km)
+# %1 à %2
 
-# Sort & Filter
+# Trier & Filtrer
 
-# Sort
+# Trier
 
-# Filter
+# Filtrer
 
-# Sort Earthquakes By
+# Trier les séismes par
 
 # Date
 
 # Magnitude
 
-# Relevance
+# Pertinence
 
-# Filter Earthquakes By
+# Filtrer les séismes par
 
 # min
 
 # max
 
-# Depth
+# Profondeur
 
-# Time
+# Temps
 
-# %1 day(s) ago
+# Il y a %1 jours
 
-# between %1 and %2 days ago
+# Il y a entre %1 et %2 jours
 
-# days
+# jours
 
-# between %1 and %2 away
-// Event filter in Distance(between 0 and 20000 km away)
+# entre %1 et %2
 
-# Distance to your location
+# Distance depuis votre emplacement
 
-# Whole World
+# Monde entier
 
-# %1 Earthquakes in this filter
+# %1 séismes dans ce filtre
 
-# Reset filters
+# Réinitialiser les filtres
 
-# Most recent earthquakes first
+# Plus récents séismes en premier
 
-# Closest earthquakes first, relative to device's location
+# Plus proches séismes en premier, en fonction de votre emplacement
 
-# Largest earthquake first
+# Plus forts séismes en premier
 
-# Strongest close-by earthquake first, relative to device's location
+# Plus forts et proches séismes en premier, en fonction de votre emplacement
 
-# #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# #Séisme enregistré sur le réseau sismique #RaspberryShake #CitizenScience. Observez ce qui tremble autour de vous avec #ShakeNet sur l'application mobile @raspishake
 
-# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# Evènement sismique enregistré sur le réseau sismique #RaspberryShake #CitizenScience. Observez ce qui tremble autour de vous avec #ShakeNet sur l'application mobile @raspishake
 
-# 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# Graph 24h enregistré sur le réseau sismique #RaspberryShake #CitizenScience. Observez ce qui tremble autour de vous avec #ShakeNet sur l'application mobile @raspishake
 
-# About
+# A propos
 
-# Address
+# Adresse
 
-# Helpful Links
+# Liens utiles
 
-# Company Website
+# Site l'entreprise
 
-# Online Shop
+# Magasin en ligne
 
-# Tech Forum
+# Forum Tech
 
 # Contact
 
-# Social Media
+# Réseaux sociaux
 
-# Application
+# Informations sur l'application
 
 # Version
 
 # THEME
 
-# Light Theme
+# Thème clair
 
-# Dark Theme
+# Thème sombre
 
-# OFFLINE Stations
+# Stations HORS LIGNE
 
-# HIDE
+# CACHER
 
-# Languages
+# Langues
 
-# English
+# Anglais
 
-# French
+# Français
 
-# Vietnamese
+# Vietnamien
 
 # Media
 
-# City / State
+# Ville / Etat
 
-# Country
+# Pays
 
-# Your Website
+# Votre site internet
 
-# Amateur Radio Call Sign
+# Indicatif de station de radioamateur
 
 # Distances
 
-# Kilometers / Meters
+# Kilomètres / Mètres
 
-# Miles / Feet
+# Miles / Pieds
 
-# Frequency
+# Fréquence
 
-# Frequency data showing distribution of energy across resolvable frequencies
+# Données en fréquence montrant la distribution d'énergie à travers des fréquences détéctables
 
-# Frequency in Hz
+# Fréquence en Hz
 
-# Spectrogram Fine Tuning
+# Spectrogramm à précision fine
 
-# Log-Scale
+# Echelle logarithmique
 
-# Station offline
+# Station hors ligne
 
-# live
+# en direct
 
-# No Station found
+# Aucune station trouvée
 
-# No Channel found
+# Aucune canal trouvé
 
-# unknown station
+# station inconnue
 
-# unknown Region
+# région inconnue
 
-# Waveform
+# Graphique
 
 # Amplitude
 
-# Waveform data showing P- and S-wave arrival times
+# Schéma de données montrant la date d'arrivée des ondes P et S
 
-# Counts
+# Comptes
 
-# Offline
+# Hors-ligne
 
-# Server unavailable, please try again later
+# Serveur indisponible, veuillez réessayer plus tard.
 
-# No data
+# Pas de données
 
-# Trace Filter
+# Filtrage de graph
 
-# Global 0.1 - 0.8 Hz
+# Mondial 0.1 - 0.8 Hz
 
-# Regional 0.7 - 2.0 Hz
+# Régional 0.7 - 2.0 Hz
 
 # Local 3.0 - 8.0 Hz
 
@@ -304,9 +302,9 @@
 
 # Elevation
 
-# unfiltered
+# Sans filtre
 
-# Events
+# Evènements
 
 # Stations
 
